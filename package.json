@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "gsap": "^3.12.4",
+        "three": "^0.158.0",
+        "webgl": "^0.0.7"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+      }
+}
